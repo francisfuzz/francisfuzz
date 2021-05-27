@@ -13,3 +13,5 @@ My name is Francis. I'm a Senior Partner Engineer at GitHub where I have the pri
 > We drew a circle and took him In!”
 
 –– Edwin Markham
+
+I have been booped on the nose <!-- boop-counter -->0<!-- /boop-counter --> times. <small>([why?](https://www.learnwithjason.dev/github-automation-with-octokit))</small>
