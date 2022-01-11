@@ -1,6 +1,8 @@
-## 👋
+## 👋 Hi, my name is Francis.
 
-My name is Francis. I'm a Senior Partner Engineer at GitHub where I have the privilege of enabling GitHub's Technology Partners to create compelling experiences for our shared customers. I've been with GitHub since 2015 starting as a Support Engineer, followed by a brief stint as a program manager. My professional background is an eclectic mix of software engineering, support, and teaching. Cultivating high psyschological safety, exercising curiosity, and creating space to learn and solve problems together are my most valued work practices.
+I'm a Senior Software Engineer at GitHub (the very site you're on!). Currently, I am the lead engineer for our Global Expansion team working on internationalization and localization. I joined GitHub in 2015 as its 625th employee as a Technical Support Engineer.
+
+My most valued work practices are building high-trust relationships, cultivating high psyschological safety, exercising curiosity, and creating space to learn and solve problems together (I love pair programming! 🍐 ).
 
 ### Words I live by
 
