@@ -1,7 +1,9 @@
 ## 👋 Hi, I'm Francis!
 
-I'm a Senior Software Engineer on GitHub's Communities team working on [Discussions](https://github.com/features/discussions), the home for developer communities.
+I'm currently a Senior Software Engineer at GitHub working on [GitHub Education](https://education.github.com/).
 
-I joined GitHub in December 2015 as Employee #625 starting as a technical support engineer focused on GitHub's Platform (API, apps, webhooks) and CI/CD capabilities (Actions, Registry). From there, I worked as a program manager for the GitHub Support Community, a partner engineer for GitHub's Technology Partnerships & Engineering team, and a software engineer focused on internationalization and localization projects.
+Previously, I worked on GitHub Discussions along with prototyping an internationalized and localized version of GitHub.com to expand the platform's language offerings beyond English. As a developer myself, I know how important it is to have access to resources in your native language, and I'm passionate about making sure engineers all over the world can benefit from our platform. 🗺️
 
-I value building high-trust relationships, cultivating high psyschological safety, exercising curiosity, and creating space to learn and solve problems together with my teammates.
+I joined GitHub in 2015 as a Support Engineer, where I advised customers to make the most of their GitHub workflow, optimizing usage of the GitHub API, integrations, and devops features. Since then, I've worked brief stints in program management and partner engineering roles, where I focused on improving content localization for GitHub Docs and fostering a thriving GitHub Community. 🫂
+
+Creating a positive and inclusive work environment is essential to doing great work. I'm a big believer in learning in public, pairing programming, and keeping it classy. I actively work to create "brave spaces" where my team and I can thrive and grow together. ✨
