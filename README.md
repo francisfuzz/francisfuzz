@@ -8,5 +8,3 @@ Earlier in my career, I joined GitHub in 2015 as a Support Engineer, building ex
 I believe in learning in public, pair programming, and creating brave spaces where teams can thrive. I'm committed to building inclusive products and environments where great work happens.
 
 Disclaimer: the views expressed in this website are my own and do not reflect the views of GitHub.
-
-Disclaimer: the views expressed in this section are my own and do not reflect the views of GitHub.
