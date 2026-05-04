@@ -1,6 +1,6 @@
 👋 Hi, I'm Francis!
 
-I'm a Senior Software Engineer at GitHub on the Pull Requests team and serve as an Incident Commander to ensure GitHub's availability. My previous teams include New User Experience, Education, Communities (Internationalization), and Business Development.
+I'm a Senior Software Engineer at GitHub on the Pull Requests team and serve as an Incident Commander to ensure GitHub's availability. My previous teams include New User Experience, Education, Communities (Internationalization), and Technology Partnerships (Business Development).
 
 Earlier in my career, I joined GitHub in 2015 as a Support Engineer, building expertise in REST/GraphQL APIs, OAuth, and the GitHub Apps platform—knowledge that still informs how I think about developer experience today.
 
